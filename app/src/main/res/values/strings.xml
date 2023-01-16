@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pass the Time</string>
+    <string name="textView">textView</string>
+    <string name="highScore">10.00</string>
+    <string name="button">Button</string>
+    <string name="start">Start</string>
+    <string name="trophyCount">1</string>
+
+    <string name="trophyDescription">Picture of a gold trophy</string>
+    <string name="redButtonDescription">Picture of a big red button</string>
+</resources>

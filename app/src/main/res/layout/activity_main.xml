@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_centerVertical="true"
+    android:gravity="center"
+    tools:context="com.justjoe.zer0.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        tools:context="com.justjoe.zer0.MainActivity">
+
+        <TextView
+            android:id="@+id/highScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="@string/highScore"
+            android:textSize="25sp" />
+
+        <ImageView
+            android:id="@+id/trophy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/trophyDescription"
+            app:srcCompat="@drawable/trophy" />
+
+        <TextView
+            android:id="@+id/trophyCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/highScore"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="12dp"
+            android:gravity="center"
+            android:text="@string/trophyCount"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="336dp"
+        android:layout_height="296dp"
+        tools:context="com.justjoe.zer0.MainActivity">
+
+        <ImageButton
+            android:id="@+id/countdown_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:contentDescription="@string/redButtonDescription"
+            android:src="@drawable/redbutton" />
+
+    <TextView
+            android:id='@+id/countdown_text'
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:textSize="50sp"
+            tools:text="10.00" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
