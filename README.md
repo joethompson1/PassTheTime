@@ -166,7 +166,8 @@ Github Link: [https://github.com/joethompson1/Datachain](https://github.com/joet
 [Next-url]: https://nextjs.org/
 [Hyperledger]: https://img.shields.io/badge/Hyperledger_Fabric-FF0000?style=for-the-badge&logo=Hyperledger&logoColor=black
 [Hyperledger-url]: https://www.hyperledger.org/use/fabric/
-[AndroidStudio]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android_Studio&logoColor=white
+[AndroidStudio]: https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android_Studio
+&logoColor=white
 [AndroidStudio-url]: https://developer.android.com/studio
 [NodeJS]: https://img.shields.io/badge/Node.JS-BAB86C?style=for-the-badge&logo=Node.js&logoColor=white
 [NodeJS-url]: https://nodejs.org/en/
