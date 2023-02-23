@@ -51,10 +51,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-### Home Page:
-[![gameplay][product-screenshot]](https://joethompson.co.uk/projects)
-
-
 ### Description:
 This application was developed during covid as a fun little exercise for me to practice my mobile development experience, whilst at the same time being able to release an app onto the Google Play Store. This is because from a young age I have always wanted to release an app to the app store which is available to everyone (who has an android) around the world.
 
