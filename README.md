@@ -87,9 +87,9 @@ If you don't have them installed then copy and paste the necessary lines below i
 
 
 #### Clone the repo
-* Clone the datachain repository
+* Clone the PassTheTime repository
    ```sh
-   git clone https://github.com/joethompson1/Datachain.git
+   git clone https://github.com/joethompson1/PassTheTime.git
    ```
 
 
@@ -97,35 +97,14 @@ If you don't have them installed then copy and paste the necessary lines below i
 <br></br>
 
 
-### Installation and Set Up of Front End
+### Installation and Set Up
 
 Follow the steps below to set up and start the project locally:
 
 
-1. Go into dataChain/application-datachain/
-   ```sh
-   cd dataChain/application-datachain/
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Create new file called `config.js`
+1. Open project folder in Android Studio
 
-4. Enter your MongoDB API key in `config.js` remember to include `/datachain?retryWrites=true&w=majority` at the end of the URI
-   ```js
-   const mongoDBURI = 'ENTER YOUR API';
-   // Should look something like below
-   const mongoDBURI = 'mongodb+srv://<ACCOUNT NAME>:<PASSWORD>@<cluster>/datachain?retryWrites=true&w=majority';
-   ```
-5. Start the development server
-   ```sh
-   npm run devStart
-   ```
-6. Open the website locally in your browser
-   ```
-   http://localhost:3000/
-   ```
+2. Run the app in an android emulator
 
 
 
@@ -152,7 +131,7 @@ Joe Thompson
 
 Email: joe.cl.thompson@gmail.com
 
-Github Link: [https://github.com/joethompson1/Datachain](https://github.com/joethompson1/Datachain)
+Github Link: [https://github.com/joethompson1/PassTheTime](https://github.com/joethompson1/PassTheTime)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
