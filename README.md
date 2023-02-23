@@ -92,6 +92,12 @@ If you don't have them installed then copy and paste the necessary lines below i
    git clone https://github.com/joethompson1/PassTheTime.git
    ```
 
+#### Download Android Studio
+* Download Android Studio which can be found at the following link.
+   ```
+   https://developer.android.com/studio
+   ```
+
 
 
 <br></br>
